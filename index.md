@@ -6,23 +6,25 @@ title: 主页
 
 欢迎来到我的个人主页！
 
-### 逸一时，误一世，逸久逸久罢已龄！
+<hr>
 
-你可以 [点这](进入我的个人主页) 进入我的B站个人主页！
+你可以 [点这](https://space.bilibili.com/3493140812008017) 进入我的B站个人主页！
 
 由于技术限制，应用更新不会在应用内部推送，需要到网站检查，敬请谅解！
 {:.info}
 
-### 自制程序推荐
+<!--### 自制推荐
+<hr>
 
-[微信连发轰炸器](https://space.bilibili.com/3493140812008017/channel/seriesdetail?sid=3495863)
+>[微信连发轰炸器](https://space.bilibili.com/3493140812008017/channel/seriesdetail?sid=3495863)
 
-想不想在微信连使用连发器轰炸你的好基友？<br>这就对了！
+>想不想在微信连使用连发器轰炸你的好基友？<br>这就对了！
 
-1.0下载：[戳这！](https://wwrz.lanzout.com/ix2oN13y76cj)<br>2.0下载：[戳这！](https://wwrz.lanzout.com/ipGVT14sfmsj)
+>1.0下载：[戳这！](https://wwrz.lanzout.com/ix2oN13y76cj)<br>2.0下载：[戳这！](https://wwrz.lanzout.com/ipGVT14sfmsj)
 
 [关于此网站](https://a-youranzide.github.io/about.html)
-
+-->
+<hr>
 <!-- 
 使用 `#` 符号来表示标题，可以使用多个 `#` 符号表示不同级别的标题：
 
