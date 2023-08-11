@@ -10,7 +10,7 @@ title: 主页
 
 你可以 [点这](https://space.bilibili.com/3493140812008017) 进入我的B站个人主页！
 
-{:.info}
+<iframe src="QR.html" width="500" height="300" frameborder="0"></iframe>
 
 <!--### 自制推荐
 <hr>
