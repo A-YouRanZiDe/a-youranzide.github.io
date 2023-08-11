@@ -11,7 +11,7 @@ title: 主页
 你可以 [点这](https://space.bilibili.com/3493140812008017) 进入我的B站个人主页！
 
 
-<iframe src="snake_come.html" style="display: block; width: 1200; height:800;"></iframe>
+<iframe src="snake_come.html" style="display: block; width: 1200px; height:800px;"></iframe>
 
 
 <!--### 自制推荐
