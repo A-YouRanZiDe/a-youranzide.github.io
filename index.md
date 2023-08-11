@@ -6,16 +6,18 @@ title: 主页
 
 欢迎来到我的个人主页！
 
+
+
 <hr>
 
 你可以 [点这](https://space.bilibili.com/3493140812008017) 进入我的B站个人主页！
 
 
-<iframe src="snake_come.html" style="display: block; width: 1200px; height:800px;"></iframe>
-
-
-<!--### 自制推荐
 <hr>
+
+[关于](a-youranzide.github.io/qbout.html) 
+<!--### 自制推荐
+
 
 >[微信连发轰炸器](https://space.bilibili.com/3493140812008017/channel/seriesdetail?sid=3495863)
 
