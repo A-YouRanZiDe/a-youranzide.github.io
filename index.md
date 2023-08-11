@@ -1,11 +1,27 @@
-# 主页
-<span style="font-size: small;">悠然自得的个人主页</span>
+---
+layout: article
+title: 主页
+---
+<span style="font-size: small;">一只悠然自得的个人主页</span>
 
-<sub> [一只悠然自得的B站主页](https://space.bilibili.com/3493140812008017) </sub>
+欢迎来到我的个人主页！
 
-## 此站点还在测试中
+### 逸一时，误一世，逸久逸久罢已龄！
 
-即将开放
+你可以 [点这](进入我的个人主页) 进入我的B站个人主页！
+
+由于技术限制，应用更新不会在应用内部推送，需要到网站检查，敬请谅解！
+{:.info}
+
+### 自制程序推荐
+
+[微信连发轰炸器](https://space.bilibili.com/3493140812008017/channel/seriesdetail?sid=3495863)
+
+想不想在微信连使用连发器轰炸你的好基友？<br>这就对了！
+
+1.0下载：[戳这！](https://wwrz.lanzout.com/ix2oN13y76cj)<br>2.0下载：[戳这！](https://wwrz.lanzout.com/ipGVT14sfmsj)
+
+[关于此网站](https://a-youranzide.github.io/about.html)
 
 <!-- 
 使用 `#` 符号来表示标题，可以使用多个 `#` 符号表示不同级别的标题：
