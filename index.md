@@ -16,7 +16,7 @@ title: 主页
 <hr>
 
 [关于](a-youranzide.github.io/qbout.html) 
-
+[主页](a-youranzide.github.io/) 
 
 <!--### 自制推荐
 
@@ -28,9 +28,7 @@ title: 主页
 >1.0下载：[戳这！](https://wwrz.lanzout.com/ix2oN13y76cj)<br>2.0下载：[戳这！](https://wwrz.lanzout.com/ipGVT14sfmsj)
 
 [关于此网站](https://a-youranzide.github.io/about.html)
--->
-<hr>
-<!-- 
+ 
 使用 `#` 符号来表示标题，可以使用多个 `#` 符号表示不同级别的标题：
 
 ```
