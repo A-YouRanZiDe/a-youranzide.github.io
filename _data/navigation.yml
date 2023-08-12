@@ -5,6 +5,10 @@ header:
     url:        /about.html
 
 right:
+  - title:      主页
+    url:    /
+  - title:      关于
+    url:    /about.html
   - title:      自制应用程序
     children:
       - title:  微信连发轰炸器
