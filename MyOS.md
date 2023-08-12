@@ -1,8 +1,5 @@
 # MyOS
 
-MyOS 1.3仍在**开发**，请坐和放宽，等待我们推出正式版！ 
-{:.error}
-
 ## 什么是MyOS？  
 
 MyOS是由 悠然自得，肝肝甘甘的野生电脑联合创作的基于Python tKinter的仿系统GUI，
