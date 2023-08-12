@@ -15,7 +15,6 @@ title: 主页
 
 -----
 
-<iframe src="a-youranzide.github.io"></iframe>
 
 
 [主页](a-youranzide.github.io/) 
