@@ -3,3 +3,9 @@ header:
     url:        /
   - title:      关于
     url:        /about.html
+
+right:
+  - title:      自制应用程序
+    children:
+      - title:  微信连发轰炸器
+        url:    /
