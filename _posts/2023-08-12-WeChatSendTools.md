@@ -9,7 +9,10 @@ sidebar:
 
 你是否想过用微信轰炸你的好基友？这就对了！
 
-一款Windows 64位的微信连发器
+~~好基友：6~~
+
+一款兼容Windows的64位微信连发器.
+{:.info}
 
 > [B站介绍视频](https://www.bilibili.com/video/BV1gh4y1F7V6/)（2.0版本）
 
