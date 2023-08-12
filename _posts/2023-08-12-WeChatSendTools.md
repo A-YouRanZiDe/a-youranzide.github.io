@@ -24,4 +24,6 @@ GUI 界面（分别为1.0版本，2.0版本）：
 
 1.0：[戳这里！](https://wwrz.lanzout.com/ix2oN13y76cj)<br>2.0：[戳这里！](https://wwrz.lanzout.com/ipGVT14sfmsj)
 
+`请勿盗版，不得用于商业用途！`{:.warning}
+
 欢迎下载，感谢使用！
