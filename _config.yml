@@ -35,7 +35,7 @@ timezone: Asia/Shanghai # see https://en.wikipedia.org/wiki/List_of_tz_database_
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : 甘甘肝肝的野生电脑
+  name      : 肝肝甘甘的野生电脑
   url       : 
   avatar    : # path or url of avatar image (square)
   bio       : G Studio 室长， MyOS（Python）开发者之一, G-DOS(-UI)开发者
