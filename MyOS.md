@@ -5,6 +5,7 @@ MyOS是由 悠然自得，肝肝甘甘的野生电脑联合创作的基于Python
 **不是魅族的MyOS，不要弄错了，与隔壁家魅族没有半毛钱关系！！！**  
 ## 目前版本
 MyOS 已经更新到了1.3，下载链接:  
+
 [MyOS1.2下载地址,123盘，提取码MyOS ](https://www.123pan.com/s/OEaiVv-TMZrv.html) 
 {:.info}
 
