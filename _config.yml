@@ -36,9 +36,8 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 author:
   type      : # "person" (default), "organization"
   name      : 一只悠然自得
-  url       :
   avatar    : # path or url of avatar image (square)
-  bio       : I am an amazing person.
+  bio       : 我是一只悠然自得
   email     : yrzd6666661@outlook.com
   github    : # "a-youranzide" the last part of your profile url, e.g. https://github.com/a-youranzide
 
