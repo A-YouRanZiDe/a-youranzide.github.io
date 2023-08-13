@@ -12,6 +12,6 @@ layout: home
 ## 想加入MyOS等产品的预览体验计划？
 也可以！也请通过邮箱联系我（们）
 ## 友情链接：
-[Microhraddemo](Microharddemo.github.io)  
+[Microharddemo](Microharddemo.github.io)  
 [悠然自得的官方网站](a-youranzide.github.io)  
 [TeXt](kitian616.github.io)
