@@ -16,7 +16,7 @@ sidebar:
 
 > [B站介绍视频](https://www.bilibili.com/video/BV1gh4y1F7V6/)（2.0版本）
 
-<iframe src="//player.bilibili.com/player.html?aid=616889626&bvid=BV1gh4y1F7V6&cid=1224912449&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 70%; height: 300%;"></iframe>
+<iframe src="//player.bilibili.com/player.html?aid=616889626&bvid=BV1gh4y1F7V6&cid=1224912449&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 480px; height: 260px;"></iframe>
 
 ----
 请自行查看
