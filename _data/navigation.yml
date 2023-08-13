@@ -8,10 +8,11 @@ right:
   - title:      开始
 
     children:
-      - title:  关于
-        url:    /about.html
       - title:  主页
         url:    /
+      - title:  关于
+        url:    /about.html
+
         
   - title:      自制应用程序
     children:
