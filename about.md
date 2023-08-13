@@ -24,6 +24,7 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-about
+show_title: false
 ---
 # 关于
 ## 关于肝肝甘甘的野生电脑  
