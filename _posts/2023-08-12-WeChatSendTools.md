@@ -11,12 +11,12 @@ sidebar:
 
 ~~好基友：6~~
 
-一款兼容Windows的64位微信连发器.
+一款**只**兼容Windows的64位微信连发器.
 {:.info}
 
 > [B站介绍视频](https://www.bilibili.com/video/BV1gh4y1F7V6/)（2.0版本）
 
-<iframe src="//player.bilibili.com/player.html?aid=616889626&bvid=BV1gh4y1F7V6&cid=1224912449&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 480px; height: 260px;"></iframe>
+<iframe src="//player.bilibili.com/player.html?aid=616889626&bvid=BV1gh4y1F7V6&cid=1224912449&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 510px; height: 275px;"></iframe>
 
 ----
 请自行查看
@@ -27,7 +27,7 @@ GUI 界面（分别为1.0版本，2.0版本）：
 ![2.0版本的GUI](/WeChatSendToolsGUI2.0.png){:.rounded.shadow}
 
 ----
-想下载？也很简单
+想下载？也很**简单**
 
 1.0：[戳这里！](https://wwrz.lanzout.com/ix2oN13y76cj)<br>2.0：[戳这里！](https://wwrz.lanzout.com/ipGVT14sfmsj)
 
