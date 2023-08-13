@@ -1,6 +1,8 @@
 header:
   - title:      主页
     url:        /
+  - title:      自制应用程序
+    url:        /archive.html
   - title:      关于
     url:        /about.html
 
