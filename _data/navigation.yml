@@ -1,8 +1,6 @@
 header:
   - title:      主页
     url:        /
-  - title:      自制应用程序
-    url:        /archive.html
   - title:      关于
     url:        /about.html
 
@@ -14,9 +12,3 @@ right:
         url:    /
       - title:  关于
         url:    /about.html
-
-        
-  - title:      自制应用程序
-    children:
-      - title:  微信连发轰炸器
-        url:    /2023/08/12/WeChatSendTools
