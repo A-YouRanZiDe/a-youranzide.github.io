@@ -35,9 +35,9 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : 一只悠然自得
+  name      : Test
   avatar    : # path or url of avatar image (square)
-  bio       : 我是一只悠然自得
+  bio       : aaa
   email     : yrzd6666661@outlook.com
   github    : # "a-youranzide" the last part of your profile url, e.g. https://github.com/a-youranzide
 
@@ -149,7 +149,7 @@ pageview:
 ## => Search
 ##############################
 search:
-  provider: default # "default" (default), false, "google", "custom"
+  provider: 默认 # "default" (default), false, "google", "custom"
 
   ## Google Custom Search Engine
   google:
